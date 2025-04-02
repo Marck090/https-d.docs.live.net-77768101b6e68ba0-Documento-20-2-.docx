@@ -1,0 +1,22 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://tr.snapchat.com/cm/i?pid=94e185fd-94af-4745-b4d3-63b54790753b&u_scsid=328c6bd3-5ccc-464e-8874-a04081b58afc&u_sclid=51a1695d-b50e-464e-a2d7-150935b83b90
+Subject: 
+Date: Wed, 30 Oct 2024 12:36:00 -0600
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--fbkjvyUOcZnbjozV8YSubOp6hLspI90288DasyvW7D----"
+
+
+------MultipartBoundary--fbkjvyUOcZnbjozV8YSubOp6hLspI90288DasyvW7D----
+Content-Type: text/html
+Content-ID: <frame-E7A3B987485264A8FB67E006C3D14B58@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: https://tr.snapchat.com/cm/i?pid=94e185fd-94af-4745-b4d3-63b54790753b&u_scsid=328c6bd3-5ccc-464e-8874-a04081b58afc&u_sclid=51a1695d-b50e-464e-a2d7-150935b83b90
+
+<!DOCTYPE html><html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+    
+</head>
+<body>
+</body></html>
+------MultipartBoundary--fbkjvyUOcZnbjozV8YSubOp6hLspI90288DasyvW7D------
